@@ -1,0 +1,10 @@
+.container {
+  margin-top: 2em;
+  font-family: "Arvo", serif;
+  font-size: 1.6em;
+  text-align: center;
+}
+#banner {
+  margin: 0 0 1em 0;
+  font-size: 3em;
+}
